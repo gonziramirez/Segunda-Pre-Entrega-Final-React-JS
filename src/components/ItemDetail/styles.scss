@@ -1,0 +1,8 @@
+.item-detail {
+    display: flex;
+    height: calc(100vh - 5rem);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
